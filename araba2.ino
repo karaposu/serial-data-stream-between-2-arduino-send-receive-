@@ -1,5 +1,5 @@
-/*  Arduino DC Motor Control - PWM | H-Bridge | L298N  -  Example 01
-    by Dejan Nedelkovski, www.HowToMechatronics.com
+/*  Arduino DC Motor Control   *** reader code ***
+    www.kayisimuhendisi.com
 */
 #define enA 10
 #define in1 6
